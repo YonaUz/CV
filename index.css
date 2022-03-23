@@ -1,0 +1,18 @@
+body{
+  background-color: #B8E4F0
+}
+.nom{
+  background-color: #77ACF1
+}
+
+hr{
+  height: 3px;
+  background-color: #77ACF1;
+  border: none;
+}
+div{
+  text-align: center;
+  background-color: #56BBF1;
+  width: 80%;
+  margin: auto;
+}
