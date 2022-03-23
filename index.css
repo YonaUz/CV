@@ -10,9 +10,14 @@ hr{
   background-color: #77ACF1;
   border: none;
 }
-div{
+.prez{
   text-align: center;
   background-color: #56BBF1;
   width: 80%;
   margin: auto;
+}
+
+.italique{
+  border: 3px solid #2D31FA;
+  padding: 5px
 }
